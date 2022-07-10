@@ -12,10 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/IuryGames1/404page" target="_blank">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
